@@ -102,7 +102,7 @@ Email: ${answers.email}
 
 // Write the generated README content to a file
 function writeToFile(content) {
-  fs.writeFile('README.md', content, (err) =>
+  fs.writeFile('README-template.md', content, (err) =>
     err ? console.error(err) : console.log('README.md file generated successfully!')
   );
 }
