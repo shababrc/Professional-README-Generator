@@ -39,13 +39,11 @@ By following this implementation, the application allows users to easily generat
 
 Please note that the README file will be generated as README-template.md in the same directory where the script is executed.
 
-
-
 ## Link to GitHub Repository
 https://github.com/shababrc/Professional-README-Generator 
 
 ## Link to Walkthrough Video
-
+https://youtu.be/XfO3fhu6TL8
 
 ## Credits
 Big thanks to the rest of the bootcamp class for their help, as well as Bryan and Shawn for their expertise. 

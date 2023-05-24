@@ -2,7 +2,7 @@
 
 ## Description
 
-An app that is designed to help songwriters with writer's block look up and generate lyrics based on their own prompt that they enter.
+Lyrassist is a web application that leverages OpenAI GPT-3.5 to generate lyrics for various music genres. With the use of GraphQL and the MERN (MongoDB, Express.js, React, Node.js) stack, Lyrassist provides an intuitive and interactive platform for lyric generation. Whether you're a seasoned musician or a budding songwriter, Lyrassist is here to inspire you and elevate your musical creations to new heights.
 
 ## Table of Contents
 
@@ -15,19 +15,19 @@ An app that is designed to help songwriters with writer's block look up and gene
 
 ## Installation
 
-No installation instructions, user can access application via the web.
+Clone the repository at our link, install the dependencies, set up environment variables, then start the development server.
 
 ## Usage
 
-The usage is free, and all rights go to the developers.
+Open you web browser and navigate to localhost:3000, then sign up or log in to an account, choose a music genre and enter a prompt then click generate lyrics, you can view the generated lyrics on the carousel on your profile, as well as edit them as well.
 
 ## Contributing
 
-The whole project was contributed to by Shabab Chowdhury.
+Collaborators were Roye Bustan, Joseph Baek, Josh Dadbin, and Shabab Chowdhury
 
 ## Tests
 
-You can test the project by running npm run test with the tests provided.
+Use GraphQL to determine whether routes are working once server is up and running at localhost:3001/graphql
 
 ## License
 
